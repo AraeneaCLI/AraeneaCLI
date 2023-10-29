@@ -1,5 +1,4 @@
 ### Hi there,
-I am Yash Mankar
 <!--
 **AraeneaCLI/AraeneaCLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
