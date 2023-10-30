@@ -2,10 +2,10 @@
 ![Yash's GitHub Banner](./Contents/banner.gif)
 
 ## Skills
-Cyber Security Analyst
-Reverse Engineer
-Full Stack Developer
-Software Engineer
+Cyber Security Analyst <br>
+Reverse Engineer <br>
+Full Stack Developer <br>
+Software Engineer <br>
 
 <details>
 <summary>More Skills</summary>
