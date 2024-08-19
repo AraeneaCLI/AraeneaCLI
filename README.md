@@ -8,7 +8,7 @@ Full Stack Developer <br>
 Software Engineer <br>
 
 <details>
-<summary>Skills</summary>
+<summary>Tech Stack</summary>
 
 ![C badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
 ![C++ badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
@@ -16,10 +16,18 @@ Software Engineer <br>
 ![Python badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![R badge](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
 ![Svelte badge](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=4AB197)
-![xampp badge](https://img.shields.io/badge/Code-xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
 ![React badge](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![Javascript badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![mysql badge](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![nextjs badge](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
+![django badge](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+![postgresql badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![docker badge](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![flask badge](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4AB197)
+![expo badge](https://img.shields.io/badge/Code-Expo-informational?style=flat&logo=expo&logoColor=white&color=4AB197)
+![prisma badge](https://img.shields.io/badge/Code-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=4AB197)
+![mongodb badge](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+
 
 </details>
 
