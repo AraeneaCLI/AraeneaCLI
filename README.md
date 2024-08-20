@@ -14,7 +14,7 @@ Software Engineer <br>
 ![C++ badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
 ![Java badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&logoColor=white&color=4AB197)
 ![Python badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![R badge](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
+![R badge](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197) </br>
 ![Svelte badge](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=4AB197)
 ![React badge](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![Javascript badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
