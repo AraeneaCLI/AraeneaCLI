@@ -34,7 +34,6 @@ Software Engineer <br>
 [![An image of @araeneacli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/araeneacli)](https://holopin.io/@araeneacli)
 
 ## Socials
-![Visits Badge](https://badges.pufler.dev/visits/AraeneaCLI/AraeneaCLI)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YashMankar-informational?style=flat&logo=linkedin&logoColor=#0A66C2&color=0D76A8)](https://www.linkedin.com/in/yash-mankar-23b453269)
 ![Mail Badge](https://img.shields.io/badge/mail-yash.mankar10122003-information?logo=gmail&color=0D76A8&logoColor=%23EA4335&label=Mail)
 [![Instagram Badge](https://img.shields.io/badge/instagram-yash0.flac-information?logo=instagram&logoColor=%23E4405F&color=0D76A8&label=Instagram)](https://instagram.com/yash0.flac?igshid=YTQwZjQ0NmI0OA==)
