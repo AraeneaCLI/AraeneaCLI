@@ -59,6 +59,13 @@ I'm a passionate Full Stack Developer and Cybersecurity Forensic Analyst with a 
 
 [![An image of @araeneacli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/araeneacli)](https://holopin.io/@araeneacli)
 
+## 📈 GitHub Contributions & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=araeneacli&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=araeneacli&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" width="48%">
+</p>
+
 
 ## 📫 Socials & Connect
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YashMankar-informational?style=flat&logo=linkedin&logoColor=#0A66C2&color=0D76A8)](https://www.linkedin.com/in/yash-mankar-23b453269)
